@@ -1,5 +1,5 @@
 
-const API_KEY = 'bd5e378503939ddaee76f12ad7a97608';
+const API_KEY = '2265c1358e38c2ce1b512c01d7d493c8';
 
 let currentData = null;  
 let currentUnit = 'C';  
